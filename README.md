@@ -2,7 +2,7 @@
 ## :green_book: Usage
 
 ```sh
-$ git clone https://github.com/sprout2000/electron-react-ts.git
+$ git clone https://github.com/DroppedCakes/app-observer.git
 $ cd electron-react-ts
 $ npm install
 
